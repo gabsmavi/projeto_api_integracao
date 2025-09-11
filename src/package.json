@@ -1,0 +1,21 @@
+{
+  "name": "projeto-api",
+  "version": "1.0.0",
+  "description": "API de integração de pontos de coleta em Fortaleza",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "axios": "^1.11.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "supertest": "^6.3.3"
+  }
+}
