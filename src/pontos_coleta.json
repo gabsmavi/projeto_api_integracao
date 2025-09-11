@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "nome": "Ponto de coleta Kangu",
+    "endereco": "Av. Santos Dumont, 1343 - loja 01 - Aldeota, Fortaleza - CE, 60150-161",
+    "materiais": ["plástico", "papel", "metal"],
+    "horario": "09:00 - 17:00",
+    "latitude": -3.7303,
+    "longitude": -38.5109
+  },
+  {
+    "id": 2,
+    "nome": "RL Reciclagem Ambiental",
+    "endereco": "Av. Bernardo Manuel, 7203 - Serrinha, Fortaleza - CE, 60741-280",
+    "materiais": ["plástico", "metal", "vidro"],
+    "horario": "07:00 - 17:00",
+    "latitude": -3.8122,
+    "longitude": -38.5085
+  },
+  {
+    "id": 3,
+    "nome": "Ecoponto - São João do Tauape",
+    "endereco": "Av. Visconde do Rio Branco, 3485 - Joaquim Távora, Fortaleza - CE, 60055-172",
+    "materiais": ["plástico", "papel", "metal"],
+    "horario": "08:00–12:00, 14:00–17:00",
+    "latitude": -3.7415,
+    "longitude": -38.5022
+  },
+  {
+    "id": 4,
+    "nome": "Ecoponto Cocó",
+    "endereco": "Av. Padre Antônio Tomás - Cocó, Fortaleza – CE",
+    "materiais": ["plástico", "papel", "metal", "vidro"],
+    "horario": "08:00–12:00, 14:00–17:00",
+    "latitude": -3.7340,
+    "longitude": -38.4980
+  },
+  {
+    "id": 5,
+    "nome": "Ecoponto - Aerolândia",
+    "endereco": "Rua Tenente Roma - Alto da Balança, Fortaleza - CE, 60851-030",
+    "materiais": ["plástico", "papel", "metal"],
+    "horario": "08:00–12:00, 13:40–17:00",
+    "latitude": -3.7355,
+    "longitude": -38.5250
+  },
+  {
+    "id": 6,
+    "nome": "Ecoponto Bairro Guararapes",
+    "endereco": "R. Paulo Roberto Pinheiro, 01 - Guararapes, Fortaleza - CE, 60810-350",
+    "materiais": ["plástico", "papel", "metal", "vidro"],
+    "horario": "08:00–12:00, 14:00–17:00",
+    "latitude": -3.7600,
+    "longitude": -38.5105
+  },
+  {
+    "id": 7,
+    "nome": "Ecoponto Luciano Cavalcante 1",
+    "endereco": "R. José Guilherme da Costa - Eng. Luciano Cavalcante, Fortaleza - CE, 60811-290",
+    "materiais": ["plástico", "papel", "metal"],
+    "horario": "08:00–12:00, 14:00–17:00",
+    "latitude": -3.7410,
+    "longitude": -38.5200
+  },
+  {
+    "id": 8,
+    "nome": "Ecofor Ambiental",
+    "endereco": "Av. Rogaciano Leite, 841 - Jardim Das Oliveiras, Fortaleza - CE, 60820-840",
+    "materiais": ["plástico", "papel", "metal", "vidro"],
+    "horario": "09:00 – 17:00",
+    "latitude": -3.7990,
+    "longitude": -38.5005
+  },
+  {
+    "id": 9,
+    "nome": "Ecoponto Edson Queiroz",
+    "endereco": "Rua Vereador José Batista Barbosa - Edson Queiroz, Fortaleza - CE, 60811-780",
+    "materiais": ["plástico", "papel", "metal", "vidro"],
+    "horario": "09:30–12:00, 14:00–17:00",
+    "latitude": -3.7420,
+    "longitude": -38.5170
+  }
+]
