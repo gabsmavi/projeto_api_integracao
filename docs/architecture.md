@@ -1,4 +1,4 @@
-by: Anne e Ronaldo
+by: Gabriel, Anne, Ronaldo e Vitor
 
 1. Visão Geral
 
