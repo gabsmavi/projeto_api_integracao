@@ -1,5 +1,5 @@
 # API de Pontos de Coleta em Fortaleza
-# by: Gabriel Viana, Anne Andrade, Ronaldo Paiva, Vitor Eduardo
+# by: Gabriel Viana
 
 ## Descrição
 API REST feita em Node.js com Express.js, que fornece informações sobre pontos de coleta de resíduos recicláveis em Fortaleza.  
